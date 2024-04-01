@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Site sobre o desmatamento</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+           <a href="https://images.app.goo.gl/vD93GSNUbLdi43rS7"<Link</a>
+            background-size: cover;
+            background-position: center; /* Centraliza a imagem de fundo */
+            color: white;
+        }
+        header {
+            text-align: center;
+            padding: 50px 0;
+        }
+        nav {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        nav a {
+            text-decoration: none;
+            color: white;
+            padding: 10px 20px;
+            border-radius: 5px;
+            background-color: #4CAF50;
+            margin: 0 10px;
+        }
+        nav a:hover {
+            background-color: #45a049;
+        }
+        #video-container {
+            text-align: center;
+        }
+        #video-container video {
+            max-width: 100%;
+            height: auto;
+        }
+        #content {
+            padding: 20px;
+        }
+        footer {
+            text-align: center;
+            padding: 20px 0;
+            background-color: #333;
+            color: white;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+        .image-container {
+            text-align: center;
+            margin-top: 20px;
+        }
+        .image-container img {
+            max-width: 100%;
+            height: auto;
+            margin-bottom: 10px;
+            width: 80%; /* Aumenta o tamanho das imagens para 80% da largura da tela */
+            max-width: 800px; /* Limita o tamanho máximo das imagens */
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Site sobre o Desmatamento</h1>
+    </header>
+    <nav>
+        <a href="#importancia">Importância</a>
+        <a href="#impactos">Impactos</a>
+        <a href="#solucoes">Soluções</a>
+    </nav>
+    <div id="video-container">
+        <video controls>
+              comando para vídeo no site
+        </video>
+    </div>
+    <div id="content">
+        <h2 id="importancia">Importância do Combate ao Desmatamento</h2>
+        <p>O meio ambiente é essencial para a sobrevivência de todas as formas de vida no planeta. Ele fornece recursos naturais, como água, ar, alimentos e abrigo, que são fundamentais para o bem-estar humano e o equilíbrio dos ecossistemas.</p>
+        <div class="image-container">
+                   </div>
+        <p>descrever sobre a importancia das florestas para o meio ambiente.</p>
+        <div class="image-container">
+         
+
+   comando para imagem floresta
+                </div>
+                <p>descrever sobre a importancia dos oceanos para o meio ambiente</p>
+                <div class="image-container">
+                          
+   comando para imagem Oceano
+                </div>
+        <h2 id="impactos">Impactos Negativos</h2>
+        <p>A atividade humana tem causado uma série de impactos negativos no meio ambiente, incluindo desmatamento, poluição do ar e da água, mudanças climáticas, perda de biodiversidade e esgotamento de recursos naturais.</p>
+        <div class="image-container">
+                  </div>
+        <p>descrever sobre o impacto negativo que a falta de reciclagem causa ao meio ambiente.</p>
+        <div class="image-container">
+            
+   comando para imagem Poluição
+                  </div>
+                  <p>descrever sobre o impacto negativo que o desmatamento causa ao meio ambiente</p>
+        <div class="image-container">
+           
+            
+
+
+   comando para imagem Desmatamento
+        </div>
+        <h2 id="solucoes">Soluções</h2>
+        <p> Para reverter os danos causados ao meio ambiente, é importante adotar práticas sustentáveis, como reciclagem, conservação de energia, proteção de habitats naturais, uso de energias renováveis e redução do consumo de recursos não renováveis.</p>
+        <div class="image-container">
+                   </div>
+        <p>descrever sobre a importancia da reciclagem e reaproveitamento dos recursos limitados.</p>
+        <div class="image-container">
+            
+
+
+   comando para imagem Reciclagem
+                    </div>
+        <p>descrever sobre a importancia de se utilizar novos recursos, energias limpas e etc.</p>
+        <div class="image-container">
+                     
+   comando para imagem Energia Renovável
+        </div>
+    </div>
+    <footer>
+        &copy; 2024 Site sobre o Meio Ambiente
+    </footer>
+</body>
+</html>
